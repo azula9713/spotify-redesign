@@ -22,8 +22,7 @@ module.exports = {
       },
     },
     fontFamily: {
-      body: ["Poppins", "serif"],
-      sans: ["ui-sans-serif", "system-ui"],
+      sans: ["Poppins", "sans-serif"],
     },
   },
   variants: {
